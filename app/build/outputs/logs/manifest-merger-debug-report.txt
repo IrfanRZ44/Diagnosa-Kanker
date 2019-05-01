@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.xw.repo:bubbleseekbar:3.16] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\bubbleseekbar-3.16.aar\1d288983ce1044dc884b654081cddb7e\AndroidManifest.xml:2:1-14:12
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\RoundCornerProgressBar-2.0.3.aar\cab00d6e780f1679139ab45535e9c834\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0449eff5ebf1458ae0d718da3fb873ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd193270c40dbbc14540d76f680b9bb9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81e726f974c7d0a539d043f9bb13d914\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2fbce3dcd993e5b298b128a462425a54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e4650e452e47da0753ef047db4917d3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1e1070fc3d7aa5267abc0782ba54cddb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6548e03c839bb96c6baf65d2e7fd7c8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\20e6cc99e46c8b740273ff30a260a2af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\29a05aab5ad30c86fe012e040b7ae551\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3452af44cf6eb91960a1547ccaac65af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b5b526bd601c4248526bea892fef3b00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d54b41627d573b035a11a5cdb3a4a820\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\322061f6a2075e87518165039046c76b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dcc3570470b61cc7ebc792413bb228cd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8e3ce419ea782877c4355b35cfd7bf2e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53e4509be09243f19b39e83521540c9e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\524739ac9ea20331b5189d5748147786\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:5:5-32:19
+MERGED from [com.xw.repo:bubbleseekbar:3.16] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\bubbleseekbar-3.16.aar\1d288983ce1044dc884b654081cddb7e\AndroidManifest.xml:12:5-20
+MERGED from [com.xw.repo:bubbleseekbar:3.16] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\bubbleseekbar-3.16.aar\1d288983ce1044dc884b654081cddb7e\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81e726f974c7d0a539d043f9bb13d914\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81e726f974c7d0a539d043f9bb13d914\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:7:9-36
+	android:allowBackup
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:11:9-59
+activity#com.exomatik.irfanrz.diagnosakanker.SplashScreen
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:14:13-49
+	android:name
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:15:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:16:25-66
+action#android.intent.action.VIEW
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.exomatik.irfanrz.diagnosakanker.MainActivity
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:22:9-24:52
+	android:screenOrientation
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:23:13-41
+activity#com.exomatik.irfanrz.diagnosakanker.UserInput
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:26:13-38
+activity#com.exomatik.irfanrz.diagnosakanker.Questioner
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:29:13-39
+activity#com.exomatik.irfanrz.diagnosakanker.HasilDiagnosa
+ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:31:9-60
+	android:name
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml:31:19-48
+uses-sdk
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+MERGED from [com.xw.repo:bubbleseekbar:3.16] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\bubbleseekbar-3.16.aar\1d288983ce1044dc884b654081cddb7e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.xw.repo:bubbleseekbar:3.16] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\bubbleseekbar-3.16.aar\1d288983ce1044dc884b654081cddb7e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\RoundCornerProgressBar-2.0.3.aar\cab00d6e780f1679139ab45535e9c834\AndroidManifest.xml:8:5-10:41
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\RoundCornerProgressBar-2.0.3.aar\cab00d6e780f1679139ab45535e9c834\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0449eff5ebf1458ae0d718da3fb873ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0449eff5ebf1458ae0d718da3fb873ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd193270c40dbbc14540d76f680b9bb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd193270c40dbbc14540d76f680b9bb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81e726f974c7d0a539d043f9bb13d914\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\81e726f974c7d0a539d043f9bb13d914\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2fbce3dcd993e5b298b128a462425a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2fbce3dcd993e5b298b128a462425a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e4650e452e47da0753ef047db4917d3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e4650e452e47da0753ef047db4917d3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1e1070fc3d7aa5267abc0782ba54cddb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1e1070fc3d7aa5267abc0782ba54cddb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6548e03c839bb96c6baf65d2e7fd7c8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6548e03c839bb96c6baf65d2e7fd7c8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\20e6cc99e46c8b740273ff30a260a2af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\20e6cc99e46c8b740273ff30a260a2af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\29a05aab5ad30c86fe012e040b7ae551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\29a05aab5ad30c86fe012e040b7ae551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3452af44cf6eb91960a1547ccaac65af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3452af44cf6eb91960a1547ccaac65af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b5b526bd601c4248526bea892fef3b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b5b526bd601c4248526bea892fef3b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d54b41627d573b035a11a5cdb3a4a820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d54b41627d573b035a11a5cdb3a4a820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\322061f6a2075e87518165039046c76b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\322061f6a2075e87518165039046c76b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dcc3570470b61cc7ebc792413bb228cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dcc3570470b61cc7ebc792413bb228cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8e3ce419ea782877c4355b35cfd7bf2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8e3ce419ea782877c4355b35cfd7bf2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53e4509be09243f19b39e83521540c9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53e4509be09243f19b39e83521540c9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\524739ac9ea20331b5189d5748147786\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\IrfanRZ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\524739ac9ea20331b5189d5748147786\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\IrfanRZ\AndroidStudioProjects\DiagnosaKanker\app\src\main\AndroidManifest.xml

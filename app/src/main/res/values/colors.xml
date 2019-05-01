@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green1">#52af44</color>
+    <color name="green2">#60da4e</color>
+    <color name="green3">#397630</color>
+    <color name="putih">#fff</color>
+    <color name="putihGelap1">#dfdfdf</color>
+    <color name="putihGelap2">#858685</color>
+    <color name="hitam">#000</color>
+    <color name="hitamGray">#393939</color>
+    <color name="colorPrimary">#52af44</color>
+    <color name="colorAccent">#52af44</color>
+    <color name="colorPrimaryDark">#52af44</color>
+</resources>
